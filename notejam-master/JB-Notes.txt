@@ -1,0 +1,33 @@
+deprecated node_modules
+
+pm@6.14.12 C:\Program Files\nodejs\node_modules\npm
+PS C:\Users\jbiasillo\repos\Notejam\notejam-master\express\notejam> npm install
+npm WARN deprecated jade@1.3.1: Jade has been renamed to pug, please install the latest version of pug instead of jade
+npm WARN deprecated static-favicon@1.0.2: use serve-favicon module
+npm WARN deprecated transformers@2.1.0: Deprecated, use jstransformer
+npm WARN deprecated mkdirp@0.3.5: Legacy versions of mkdirp are no longer supported. Please update to mkdirp 1.x. (Note that the API surface has changed to use Promises in 1.x.)
+npm WARN deprecated node-pre-gyp@0.11.0: Please upgrade to @mapbox/node-pre-gyp: the non-scoped node-pre-gyp package is deprecated and only the @mapbox scoped package will recieve updates in the future
+npm WARN deprecated constantinople@2.0.1: Please update to at least constantinople 3.1.1
+npm WARN deprecated jade@0.26.3: Jade has been renamed to pug, please install the latest version of pug instead of jade
+npm WARN deprecated mkdirp@0.5.0: Legacy versions of mkdirp are no longer supported. Please update to mkdirp 1.x. (Note that the API surface has changed to use Promises in 1.x.)
+npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+npm WARN deprecated mkdirp@0.3.0: Legacy versions of mkdirp are no longer supported. Please update to mkdirp 1.x. (Note that the API surface has changed to use Promises in 1.x.)
+npm WARN deprecated graceful-fs@2.0.3: please upgrade to graceful-fs 4 for compatibility with current and future versions of Node.js
+npm WARN deprecated minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+
+> bcrypt@5.0.1 install C:\Users\jbiasillo\repos\Notejam\notejam-master\express\notejam\node_modules\bcrypt
+> node-pre-gyp install --fallback-to-build
+
+[bcrypt] Success: "C:\Users\jbiasillo\repos\Notejam\notejam-master\express\notejam\node_modules\bcrypt\lib\binding\napi-v3\bcrypt_lib.node" is installed via remote
+
+> sqlite3@5.0.2 install C:\Users\jbiasillo\repos\Notejam\notejam-master\express\notejam\node_modules\sqlite3
+> node-pre-gyp install --fallback-to-build
+
+node-pre-gyp WARN Using request for node-pre-gyp https download
+[sqlite3] Success: "C:\Users\jbiasillo\repos\Notejam\notejam-master\express\notejam\node_modules\sqlite3\lib\binding\napi-v3-win32-x64\node_sqlite3.node" is installed via remote
+npm notice created a lockfile as package-lock.json. You should commit this file.
+added 289 packages from 285 contributors and audited 289 packages in 29.243s    
+
+11 packages are looking for funding
+  run `npm fund` for details       
